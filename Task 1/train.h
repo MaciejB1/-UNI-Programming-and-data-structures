@@ -27,6 +27,7 @@ public:
     void add(int number);
     void deleteTrio(int K);
     void writeObj();
+    void move();
 };
 
 
